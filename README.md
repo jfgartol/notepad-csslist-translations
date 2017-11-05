@@ -14,10 +14,10 @@ If you prefer edit the file with a plain text editor yo must fill the empty msgs
 
     #: nppforms.rsdirectorynot
     msgid "Directory not found:"
-    msgstr ""
+    **msgstr ""**
 
 The text for spanish is as follows:
 
     #: nppforms.rsdirectorynot
     msgid "Directory not found:"
-    msgstr "No se ha encontrado el directorio:"
+    **msgstr "No se ha encontrado el directorio:"**
