@@ -1,0 +1,222 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: loquesea <popo@oioi.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: nppforms.rsLTR
+msgid "ltr"
+msgstr "ltr"
+
+#: nppforms.rsclassandids
+msgid "classes and ids"
+msgstr "classes e ids"
+
+#: nppforms.rsdirectorynot
+msgid "Directory not found:"
+msgstr "El directorio no existe: "
+
+#: nppforms.rsparse
+msgid "Parse file"
+msgstr "Procesar archivo"
+
+#: nppforms.rsselectors
+msgid "Selectors"
+msgstr "Selectores"
+
+#: tnppform.btnapply.caption
+msgid "Apply"
+msgstr "Aplicar"
+
+#: tnppform.caption
+msgid "CSS explorer"
+msgstr ""
+
+#: tnppform.dontclean.caption
+msgid "Respect whitespaces"
+msgstr "Respetar espacios"
+
+#: tnppform.label1.caption
+msgid "Filter:"
+msgstr "Filtrar:"
+
+#: tnppform.labselector.caption
+msgctxt "tnppform.labselector.caption"
+msgid "All media"
+msgstr "Todos los media"
+
+#: tnppform.tabselectors.caption
+msgctxt "tnppform.tabselectors.caption"
+msgid "Selectors"
+msgstr "Selectores"
+
+#: tnppform.bbtncolmix.hint
+msgid "Show ColorMixer"
+msgstr "Abrir ColorMixer"
+
+#: tnppform.bbtndelrow.hint
+msgid "Delete current property"
+msgstr "Borrar la propiedad actual"
+
+#: tnppform.bbtnsort.hint
+msgid "Sort by property name"
+msgstr "Ordenar por el nombre de la propiedad"
+
+#: tnppform.bbtnurl.hint
+msgid "Show Background editor"
+msgstr "Ver el editor de fondos"
+
+#: tnppform.bbtnurl.hint
+msgid "%s (%d of %d)"
+msgstr "%s (%d de %d)"
+
+#: tnppform.labclasesids.caption
+msgctxt "tnppform.labclasesids.caption"
+msgid "Click on the class name or ID to insert into the current document at the cursor position"
+msgstr "Haz clic en el nombre de clase o ID para insertar en el documento actual en la posición del cursor"
+
+#: tnppform.btnexportcolors.caption
+msgid "Export color list"
+msgstr "Exportar lista de colores"
+
+#: tnppform.btngetcolorlist.caption
+msgid "Get color list"
+msgstr "Actualiza lista de colores"
+
+#: tnppform.lbselectcolor.caption
+msgid "On select color:"
+msgstr "Al seleccionar color"
+
+#: tnppform.tabcolors.caption
+msgid "Colors"
+msgstr "Colores"
+
+#: nppforms.rscbselectcolor0
+msgctxt "nppforms.rscbselectcolor0"
+msgid "Insert in document"
+msgstr "Inserta en el documento"
+
+#: nppforms.rscbselectcolor1
+msgid "Send to color editor"
+msgstr "Envia al editor de color"
+
+#: nppforms.rscbselectcolor2
+msgid "Search in document"
+msgstr "Busca en el documento"
+
+#: tnppform.bbtncompress.hint
+msgctxt "TNPPFORM.BBTNCOMPRESS.HINT"
+msgid "Compress properties"
+msgstr "Comprime propiedades"
+
+#: tnppform.chcfgsavefile.caption
+msgid "Save file"
+msgstr "Guardar archivo"
+
+#: nppforms.rsnowebchecked
+msgid "You have not selected any web page to reload"
+msgstr "No has seleccionado ninguna página para recargar"
+
+#: tfurlimg.bitbtn1.hint
+msgid "Select image from hard disk"
+msgstr "Selecciona una imagen del disco duro"
+
+#: tfurlimg.txbg.hint
+msgid "To facilitate editing of the text has been removed base64 code from the image to the text field below, '<image:base64>' will be replaced by the contents of that field by pressing the Apply button"
+msgstr "Para facilitar la edición del texto se ha movido el código base64 al campo de texto de abajo, '<image:base64>' se reemplazará con el contenido de ese campo al pulsar el botón Aplicar"
+
+#: tnppform.bbtnreloaspages.hint
+msgid "Reload checked web pages"
+msgstr "Recargar las webs seleccionadas"
+
+#: tnppform.lbcfgonapply.caption
+msgctxt "TNPPFORM.LBCFGONAPPLY.CAPTION"
+msgid "On click Apply button"
+msgstr "Al pulsar el botón Aplicar"
+
+#: tnppform.lbeditcfgotros.caption
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: tnppform.tabsheet1.caption
+msgid "Config"
+msgstr "Config."
+
+#: nppforms.rsloadlistwebs
+msgctxt "nppforms.rsloadlistwebs"
+msgid "Load list of web pages"
+msgstr "Listar páginas web"
+
+#: nppforms.rsbbtnaddlinkedhint
+msgid "Add not existing linked properties"
+msgstr "Añade propiedades enlazadas no existentes"
+
+#: tnppform.tbfind.hint
+msgid "Find the selected text in selectors list"
+msgstr "Busca el texto seleccionado en la lista de selectores"
+
+#: nppforms.rsFilterContains
+msgid "Contains"
+msgstr "Contiene"
+
+#: nppforms.rsFilterStartBy
+msgid "Start by"
+msgstr "Empieza por"
+
+#: nppforms.rsFilterEndBy
+msgid "End by"
+msgstr "Termina en"
+
+#: nppforms.rsFonts
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: nppforms.rslabFontNames
+msgid "Click on the font name to insert into the current document at the cursor position"
+msgstr "Pulsa en el nombre de la fuente para insertarlo en el documento actual en la posición del cursor"
+
+#: nppforms.rsProps
+msgid "Properties"
+msgstr "Propiedades"
+
+#: nppforms.rsEdFilesCompress
+msgid "Compression properties rules"
+msgstr "Reglas para comprimir propiedades"
+
+#: nppforms.rsEdFilesProps
+msgid "List of properties"
+msgstr "Lista de propiedades"
+
+#: nppforms.rsEdFilesGrouped
+msgid "Grouped properties"
+msgstr "Propiedades agrupadas"
+
+#: nppforms.rsOpen
+msgid "Open"
+msgstr "Abrir"
+
+#: nppforms.rsReload
+msgid "Reload"
+msgstr "Recargar"
+
+#: nppforms.rsSaveChanges
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: nppforms.rsOtherOptions
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: nppforms.rsGoToLine
+msgid "Go to line:"
+msgstr "Ir a la línea:"
+
+#: nppforms.rsGo
+msgid "Go"
+msgstr "Ir"
