@@ -12,16 +12,12 @@ If your language is french then the name for the po file must be cssList.fr.po, 
 You can edit the .po file with a text editor or any po editor (https://poedit.net/, https://localise.biz/free/poeditor)
 If you prefer edit the file with a plain text editor yo must fill the empty msgstr with the translation of the msgid line
 
-#: nppforms.rsdirectorynot
-
-msgid "Directory not found:"
-
-msgstr ""
+    #: nppforms.rsdirectorynot
+    msgid "Directory not found:"
+    msgstr ""
 
 The text for spanish is as follows:
 
-#: nppforms.rsdirectorynot
-
-msgid "Directory not found:"
-
-msgstr "No se ha encontrado el directorio:"
+    #: nppforms.rsdirectorynot
+    msgid "Directory not found:"
+    msgstr "No se ha encontrado el directorio:"
