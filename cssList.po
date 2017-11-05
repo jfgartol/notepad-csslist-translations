@@ -1,0 +1,222 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your name <your@mail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: nppforms.rsLTR
+msgid "ltr"
+msgstr ""
+
+#: nppforms.rsclassandids
+msgid "classes and ids"
+msgstr ""
+
+#: nppforms.rsdirectorynot
+msgid "Directory not found:"
+msgstr ""
+
+#: nppforms.rsparse
+msgid "Parse file"
+msgstr ""
+
+#: nppforms.rsselectors
+msgid "Selectors"
+msgstr ""
+
+#: tnppform.btnapply.caption
+msgid "Apply"
+msgstr ""
+
+#: tnppform.caption
+msgid "CSS explorer"
+msgstr ""
+
+#: tnppform.dontclean.caption
+msgid "Respect whitespaces"
+msgstr ""
+
+#: tnppform.label1.caption
+msgid "Filter:"
+msgstr ""
+
+#: tnppform.labselector.caption
+msgctxt "tnppform.labselector.caption"
+msgid "All media"
+msgstr ""
+
+#: tnppform.tabselectors.caption
+msgctxt "tnppform.tabselectors.caption"
+msgid "Selectors"
+msgstr ""
+
+#: tnppform.bbtncolmix.hint
+msgid "Show ColorMixer"
+msgstr ""
+
+#: tnppform.bbtndelrow.hint
+msgid "Delete current property"
+msgstr ""
+
+#: tnppform.bbtnsort.hint
+msgid "Sort by property name"
+msgstr ""
+
+#: tnppform.bbtnurl.hint
+msgid "Show Background editor"
+msgstr ""
+
+#: tnppform.bbtnurl.hint
+msgid "%s (%d of %d)"
+msgstr ""
+
+#: tnppform.labclasesids.caption
+msgctxt "tnppform.labclasesids.caption"
+msgid "Click on the class name or ID to insert into the current document at the cursor position"
+msgstr ""
+
+#: tnppform.btnexportcolors.caption
+msgid "Export color list"
+msgstr ""
+
+#: tnppform.btngetcolorlist.caption
+msgid "Get color list"
+msgstr ""
+
+#: tnppform.lbselectcolor.caption
+msgid "On select color:"
+msgstr ""
+
+#: tnppform.tabcolors.caption
+msgid "Colors"
+msgstr ""
+
+#: nppforms.rscbselectcolor0
+msgctxt "nppforms.rscbselectcolor0"
+msgid "Insert in document"
+msgstr ""
+
+#: nppforms.rscbselectcolor1
+msgid "Send to color editor"
+msgstr ""
+
+#: nppforms.rscbselectcolor2
+msgid "Search in document"
+msgstr ""
+
+#: tnppform.bbtncompress.hint
+msgctxt "TNPPFORM.BBTNCOMPRESS.HINT"
+msgid "Compress properties"
+msgstr ""
+
+#: tnppform.chcfgsavefile.caption
+msgid "Save file"
+msgstr ""
+
+#: nppforms.rsnowebchecked
+msgid "You have not selected any web page to reload"
+msgstr ""
+
+#: tfurlimg.bitbtn1.hint
+msgid "Select image from hard disk"
+msgstr ""
+
+#: tfurlimg.txbg.hint
+msgid "To facilitate editing of the text has been removed base64 code from the image to the text field below, '<image:base64>' will be replaced by the contents of that field by pressing the Apply button"
+msgstr ""
+
+#: tnppform.bbtnreloaspages.hint
+msgid "Reload checked web pages"
+msgstr ""
+
+#: tnppform.lbcfgonapply.caption
+msgctxt "TNPPFORM.LBCFGONAPPLY.CAPTION"
+msgid "On click Apply button"
+msgstr ""
+
+#: tnppform.lbeditcfgotros.caption
+msgid "Other options"
+msgstr ""
+
+#: tnppform.tabsheet1.caption
+msgid "Config"
+msgstr ""
+
+#: nppforms.rsloadlistwebs
+msgctxt "nppforms.rsloadlistwebs"
+msgid "Load list of web pages"
+msgstr ""
+
+#: nppforms.rsbbtnaddlinkedhint
+msgid "Add not existing linked properties"
+msgstr ""
+
+#: tnppform.tbfind.hint
+msgid "Find the selected text in selectors list"
+msgstr ""
+
+#: nppforms.rsFilterContains
+msgid "Contains"
+msgstr ""
+
+#: nppforms.rsFilterStartBy
+msgid "Start by"
+msgstr ""
+
+#: nppforms.rsFilterEndBy
+msgid "End by"
+msgstr ""
+
+#: nppforms.rsFonts
+msgid "Fonts"
+msgstr ""
+
+#: nppforms.rslabFontNames
+msgid "Click on the font name to insert into the current document at the cursor position"
+msgstr ""
+
+#: nppforms.rsProps
+msgid "Properties"
+msgstr ""
+
+#: nppforms.rsEdFilesCompress
+msgid "Compression properties rules"
+msgstr ""
+
+#: nppforms.rsEdFilesProps
+msgid "List of properties"
+msgstr ""
+
+#: nppforms.rsEdFilesGrouped
+msgid "Grouped properties"
+msgstr ""
+
+#: nppforms.rsOpen
+msgid "Open"
+msgstr ""
+
+#: nppforms.rsReload
+msgid "Reload"
+msgstr ""
+
+#: nppforms.rsSaveChanges
+msgid "Save changes"
+msgstr ""
+
+#: nppforms.rsOtherOptions
+msgid "Other options"
+msgstr ""
+
+#: nppforms.rsGoToLine
+msgid "Go to line:"
+msgstr ""
+
+#: nppforms.rsGo
+msgid "Go"
+msgstr ""
