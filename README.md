@@ -13,11 +13,15 @@ You can edit the .po file with a text editor or any po editor (https://poedit.ne
 If you prefer edit the file with a plain text editor yo must fill the empty msgstr with the translation of the msgid line
 
 #: nppforms.rsdirectorynot
+
 msgid "Directory not found:"
+
 msgstr ""
 
 The text for spanish is as follows:
 
 #: nppforms.rsdirectorynot
+
 msgid "Directory not found:"
+
 msgstr "No se ha encontrado el directorio:"
